@@ -1,0 +1,6 @@
+{
+  "name": "Go Gym",
+  "description": "Aplikasi web kebugaran Go Gym di Bumi Pesona Asri Rancaekek Bandung untuk pendaftaran member, latihan harian, jadwal kelas boxing, fasilitas, dan manajemen admin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
